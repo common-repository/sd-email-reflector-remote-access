@@ -1,0 +1,4 @@
+PROJECT_NAME		= SD&nbsp;Email&nbsp;Reflector&nbsp;Remote&nbsp;Access
+INPUT			= .
+ALIASES			+= "wp_action=@par	Wordpress\nAction" 
+ALIASES			+= "wp_filter=@par	Wordpress\nFilter" 

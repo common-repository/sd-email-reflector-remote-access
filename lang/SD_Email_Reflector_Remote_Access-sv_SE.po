@@ -1,0 +1,1083 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThreeWP Email Reflector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-14 00:00+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Edward Plainview <edward@plainview.se>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+
+#: SD_Email_Reflector_Remote_Access.php:175
+msgid " and any URL can be used"
+msgstr " och vilken adress som helst kan användas"
+
+#: SD_Email_Reflector_Remote_Access.php:181
+#, php-format
+msgid " and any URL can be used, in addition to <em>%s</em>"
+msgstr " och vilken adress kan användas, inte bara <em>%s</em>"
+
+#: SD_Email_Reflector_Remote_Access.php:186
+#, php-format
+msgid " and the call must be sent to <em>%s</em>"
+msgstr " och begäran måste skickas till <em>%s</em>"
+
+#: SD_Email_Reflector_Remote_Access.php:263
+msgid "Address"
+msgstr "Adress"
+
+#: SD_Email_Reflector_Remote_Access.php:239
+msgid "Allow remote access to settings"
+msgstr "Tillåt fjärrstyrning av inställningarna"
+
+#: SD_Email_Reflector_Remote_Access.php:254
+msgid "Check _POST?"
+msgstr "Kolla sidanrop?"
+
+#: SD_Email_Reflector_Remote_Access.php:253
+msgid "Check all Wordpress requests for a remote access call? Else only the shortcode will work."
+msgstr "Kolla samtliga Wordpressanrop efter fjärråtkomst? Annars kommer bara kortkommandot fungera."
+
+#: SD_Email_Reflector_Remote_Access.php:206
+msgid "Keys"
+msgstr "Nycklar"
+
+#: SD_Email_Reflector_Remote_Access.php:273
+msgid "List of admin remote access keys. One key per line."
+msgstr "Lista över fjärråtkomstnycklar. En nyckel per rad."
+
+#: SD_Email_Reflector_Remote_Access.php:262
+msgid "Optional URL to the post with the remote access shortcode. Either this or the check post option must be set."
+msgstr "Eventuell adress till inlägget där fjärråtkomstkortkommandot finns. Fyll antingen i detta eller bocka i \"kolla anrop\"-rutan."
+
+#: SD_Email_Reflector_Remote_Access.php:219
+#: SD_Email_Reflector_Remote_Access.php:228
+#: SD_Email_Reflector_Remote_Access.php:237
+#: SD_Email_Reflector_Remote_Access.php:298
+msgid "Remote access"
+msgstr "Fjärråtkomst"
+
+#: SD_Email_Reflector_Remote_Access.php:274
+msgid "Remote access keys"
+msgstr "Fjärråtkomstnycklar"
+
+#: SD_Email_Reflector_Remote_Access.php:204
+msgid "Remote access keys used to change this list remotely. One key per line."
+msgstr "Fjärråtkomstnycklar kan användas för att ändra den här listan. En nyckel per rad."
+
+#: SD_Email_Reflector_Remote_Access.php:289
+#, php-format
+msgid "Remotely accessed: %s"
+msgstr "Senaste fjärråtkomst: %s"
+
+#: SD_Email_Reflector_Remote_Access.php:250
+msgid "See the source code documentation for information about using the shortcode - [sd_email_reflector_remote_access] - and access keys."
+msgstr "Se dokumentationen i källkoden för hur man använder kortkommandot - [sd_email_reflector_remote_access] - och fjärråtkomstnycklarna."
+
+#: SD_Email_Reflector_Remote_Access_Base.php:410
+msgid "Super admin"
+msgstr "Nätverksadministratör"
+
+#: SD_Email_Reflector_Remote_Access.php:169
+msgid "The admin has not specified neither a remote access URL or checking of the request. No options can be shown."
+msgstr "Administratören har inte angett en fjärråtkomst URL eller att tillägget kollar varje anrop till hemsidan. Inga fjärråtkomstalternativ kan visas."
+
+#: SD_Email_Reflector_Remote_Access.php:196
+#, php-format
+msgid "The list ID is <em>%s</em>%s."
+msgstr "Listan är <em>%s</em>%s."
+
+#~ msgid "%d moderators"
+#~ msgstr "%d moderatorer"
+
+#~ msgid "%d readers"
+#~ msgstr "%d läsare"
+
+#~ msgid "%d writers"
+#~ msgstr "%d författare"
+
+#~ msgid "%s messages found in <em>%s</em>."
+#~ msgstr "%s meddelanden hittade i <em>%s</em>."
+
+#~ msgid "%s messages found."
+#~ msgstr "%s meddelanden hittade."
+
+#~ msgid "%s sent from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+#~ msgstr "%s skickades från <em>%s</em> för <em>%s</em>. Koden: <em>%s</em>"
+
+#~ msgid "&laquo;"
+#~ msgstr "%s ago"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid ""
+#~ "143 is the standard port for IMAP. 993 is the standard IMAP SSL port."
+#~ msgstr "143 är standardporten för IMAP. 993 är standardporten för IMAP SSL."
+
+#~ msgid "<em>%s</em> added to mail queue for <em>%s</em>."
+#~ msgstr "<em>%s</em> har lagts till mailkön för <em>%s</em>."
+
+#~ msgid "<em>%s</em> is not a valid email address in <em>%s</em>."
+#~ msgstr "<em>%s</em> är inte en giltig adress i  <em>%s</em>."
+
+#~ msgid "A new message to <em>%s</em> was sent by <em>%s</em>."
+#~ msgstr "Ett nytt meddelande till <em>%s</em> skickades av <em>%s</em>."
+
+#~ msgid ""
+#~ "A short name / description of this mailing list. You can use the e-mail "
+#~ "address of this list as the name if you want."
+#~ msgstr ""
+#~ "Ett kort namn / beskrivning för listan. Du kan använda listans e-"
+#~ "postadress som namnet om du vill."
+
+#~ msgid "Accept"
+#~ msgstr "Acceptera"
+
+#~ msgid "Accept and send a confirmation message"
+#~ msgstr "Acceptera och skicka ett bekräftelsemeddelande"
+
+#~ msgid "Accept mail to these addresses"
+#~ msgstr "Alias"
+
+#~ msgid "Acceptance rules"
+#~ msgstr "Regler"
+
+#~ msgid "Access"
+#~ msgstr "Åtkomst"
+
+#~ msgid "Access settings for this list have been updated."
+#~ msgstr "Åtkomstinställningarna för den listan har sparats."
+
+#~ msgid "Access settings for this user have been updated."
+#~ msgstr "Åtkomstinställningarna för användaren har uppdaterats."
+
+#~ msgid "Action for invalid codes"
+#~ msgstr "Åtgärd för ogiltiga koder"
+
+#~ msgid "Action for valid authorization codes"
+#~ msgstr "Åtgärd för giltiga bekräftelsekoder"
+
+#~ msgid "Action for valid moderation codes"
+#~ msgstr "Åtgärd för giltiga modereringskoder"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivera"
+
+#~ msgid "Add this suffix into the subject if it doesn't already exist."
+#~ msgstr "Text att infoga i slutet på ämnesraden."
+
+#~ msgid "Administrative reply-to address"
+#~ msgstr "Administrativ svara-till adress"
+
+#~ msgid "All messages must be authorized"
+#~ msgstr "Alla meddelanden måste bekräftas"
+
+#~ msgid "Allow specific users access to the various parts of mailing list %s."
+#~ msgstr ""
+#~ "Tillåt specifika användare att komma åt olika delar av mailinglistan %s."
+
+#~ msgid "Allow this user access to the various parts of the mailing lists."
+#~ msgstr ""
+#~ "Tillåt specifika användare att komma åt olika delar av mailinglistorna."
+
+#~ msgid "Allow user to start a collection."
+#~ msgstr "Tillåt användaren att påbörja en samling."
+
+#~ msgid "Apply"
+#~ msgstr "Verkställ"
+
+#~ msgid "Authorization"
+#~ msgstr "Autentisering"
+
+#~ msgid ""
+#~ "Authorization and moderation requests are sent from this address. This is "
+#~ "useful in case you want normal replies to go to a specific person, but "
+#~ "authorization and moderation requests to go to the mail daemons address."
+#~ msgstr ""
+#~ "Bekräftelse- och moderationsmail skickas från den här adressen. Detta kan "
+#~ "vara användbart ifall normala svar ska gå till en specifik adress, men "
+#~ "bekräftelse- och moderationsmail ska gå till tilläggets mailadress."
+
+#~ msgid ""
+#~ "Authorization confirmation message was sent to <em>%s</em> for <em>%s</"
+#~ "em>."
+#~ msgstr "Bekräftelse-bekräftelse skickades till <em>%s</em> för <em>%s</em>."
+
+#~ msgid "Authorization request"
+#~ msgstr "Begäran om bekräftelse"
+
+#~ msgid "Authorization writers"
+#~ msgstr "Författare som måste bekräfta sina mails"
+
+#~ msgid "Batch size"
+#~ msgstr "Mailantal"
+
+#~ msgid "CURL handling (sending and fetching of messages)"
+#~ msgstr "CURL-hantering (mailhämtning och -skickande)"
+
+#~ msgid "Check the mailing list automatically for new mail."
+#~ msgstr "Kolla mailinglistan automatiskt för nya mails"
+
+#~ msgid "Code"
+#~ msgstr "Kod"
+
+#~ msgid "Code is valid."
+#~ msgstr "Koden är giltig."
+
+#~ msgid "Code type"
+#~ msgstr "Kodtyp"
+
+#~ msgid "Codes"
+#~ msgstr "Koder"
+
+#~ msgid "Collect"
+#~ msgstr "Samla"
+
+#~ msgid "Collect all active mailing lists"
+#~ msgstr "Samla alla aktiva listor"
+
+#~ msgid "Collect now"
+#~ msgstr "Samla nu"
+
+#~ msgid "Collected: %s"
+#~ msgstr "Samlat: %s"
+
+#~ msgid "Collection complete."
+#~ msgstr "Samling avslutad."
+
+#~ msgid "Collection of mail from the various servers"
+#~ msgstr "Samling av mail från de olika servrarna"
+
+#~ msgid "Connect to servers with self-signed SSL certificates."
+#~ msgstr "Anslut till servrar med hemmagjorda SSL certifikat."
+
+#~ msgid "Connecting to <em>%s</em> with username <em>%s</em>."
+#~ msgstr "Ansluter till <em>%s</em> med användarnamnet <em>%s</em>."
+
+#~ msgid "Connections"
+#~ msgstr "Anslutningar"
+
+#~ msgid "Connections per server"
+#~ msgstr "Anslutningar per server"
+
+#~ msgid ""
+#~ "Could not send %s from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+#~ msgstr ""
+#~ "Kunde inte skicka %s från <em>%s</em> för <em>%s</em>. Koden: <em>%s</em>"
+
+#~ msgid ""
+#~ "Could not send authorization confirmation message to <em>%s</em> for <em>"
+#~ "%s</em>."
+#~ msgstr ""
+#~ "Kunde inte skicka bekräftelse-godkännande till <em>%s</em> för <em>%s</"
+#~ "em>."
+
+#~ msgid "Could not send invalid code message to <em>%s</em> for <em>%s</em>."
+#~ msgstr ""
+#~ "Kunde inte skicka meddelande om ogiltig kod  till <em>%s</em> för <em>%s</"
+#~ "em>."
+
+#~ msgid "Could not send rejection message to <em>%s</em> for <em>%s</em>."
+#~ msgstr ""
+#~ "Kunde inte skicka förkastningsmailet till <em>%s</em> för <em>%s</em>."
+
+#~ msgid "Create a new mailing list"
+#~ msgstr "Skapa en ny mailinglista"
+
+#~ msgid "Cron complete."
+#~ msgstr "Cron avslutad."
+
+#~ msgid "Cron delay"
+#~ msgstr "Cronväntetid"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Deactivate"
+#~ msgstr "Avaktivera"
+
+#~ msgid ""
+#~ "Decrease the priority of a batch by one per every x readers. The default "
+#~ "value of 50 decreases the priority of a batch by one per every 50 readers."
+#~ msgstr ""
+#~ "För varje x antal läsare, sänk prioriteten med 1. Standardvärdet på 50 "
+#~ "sänker mailutskickets prioritet med 1 per 50 läsare."
+
+#~ msgid "Delete"
+#~ msgstr "Ta bort"
+
+#~ msgid "Delete %s"
+#~ msgstr "Ta bort %s"
+
+#~ msgid "Do nothing"
+#~ msgstr "Gör inget"
+
+#~ msgid "Done."
+#~ msgstr "Färdig."
+
+#~ msgid ""
+#~ "E-mail addresses are specified one per line. When pasting new addresses "
+#~ "they may be comma or space separated on one line. The addresses will be "
+#~ "separated and sorted when the settings are saved."
+#~ msgstr ""
+#~ "E-postadresser anges en på varje rad. Om man klistrar in nya adresser "
+#~ "från andra program kan de anges på samma rad med komma eller mellanrum "
+#~ "mellan varje. Adresserna kommer att sperareas och sorteras när "
+#~ "inställningarna sparas."
+
+#~ msgid "Edit"
+#~ msgstr "Redigera"
+
+#~ msgid "Edit list access for %s"
+#~ msgstr "Redigera åtkomst för %s"
+
+#~ msgid "Editing %s"
+#~ msgstr "Redigerar %s"
+
+#~ msgid "Editing access for %s"
+#~ msgstr "Redigerar tillång för %s"
+
+#~ msgid ""
+#~ "Either there was no such code or an autoreply function has already "
+#~ "replied to the message containing the code."
+#~ msgstr ""
+#~ "Antingen fanns ingen sådan kod eller ett automatsvar har redan besvarat "
+#~ "meddelandet."
+
+#~ msgid "Email Reflector access"
+#~ msgstr "Åtkomst till mailinglistorna"
+
+#~ msgid ""
+#~ "Enable global collection and sending of queued messages. If disabled, no "
+#~ "lists will be collected at all."
+#~ msgstr ""
+#~ "Slå på samling och mailskickande för hela tillägget. Om inställningen "
+#~ "inte är ikryssad kommer inga listor att samlas alls."
+
+#~ msgid "Enabled"
+#~ msgstr "Aktiverat"
+
+#~ msgid "Expunged <em>%s</em>."
+#~ msgstr "Stängde  och tömde <em>%s</em>..."
+
+#~ msgid "Failures to send: %s"
+#~ msgstr "Misslyckade sändningsförsök: %s"
+
+#~ msgid "From: %s"
+#~ msgstr "Från: %s"
+
+#~ msgid "From: <em>%s</em>"
+#~ msgstr "Från: <em>%s</em>"
+
+#~ msgid "General settings"
+#~ msgstr "Inställningar"
+
+#~ msgid "Host name"
+#~ msgstr "Servernamn"
+
+#~ msgid "How long to wait between collections."
+#~ msgstr "Hur lång tid att vänta mellan samlingar."
+
+#~ msgid ""
+#~ "How many days to keep codes and messages in the queue. The default is 7."
+#~ msgstr ""
+#~ "Hur länge ska koder och meddelanden sparas i kön. Standardvärdet är 7 "
+#~ "(dagar)."
+
+#~ msgid "How many emails to send per batch (cron). The default is 25."
+#~ msgstr ""
+#~ "Hur många mails programmet ska skicka åt gången. Standardvärdet är 25."
+
+#~ msgid "How many emails to send simultaneously."
+#~ msgstr "Hur många mails att skicka samtidigt."
+
+#~ msgid ""
+#~ "How many items to show per page when showing lists that can be paged. "
+#~ "Default is 100."
+#~ msgstr ""
+#~ "Hur många rader att visa per sida när listor visas. Standardvärdet är 100."
+
+#~ msgid ""
+#~ "How often, in minutes, to wait between collections (cron). The default is "
+#~ "5."
+#~ msgstr ""
+#~ "Hur ofta, i minuter, programmet måste vänta mellan samlingar (cron). "
+#~ "Standardvärdet är 5."
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "IMAP calls"
+#~ msgstr "IMAP-funktioner"
+
+#~ msgid "IMAP server"
+#~ msgstr "IMAP server"
+
+#~ msgid "IMAP settings"
+#~ msgstr "IMAP-inställningar"
+
+#~ msgid "Identification and processing of codes"
+#~ msgstr "Identifiering och behandling av koder"
+
+#~ msgid ""
+#~ "If enabled will display all the existing mailing lists in the overview, "
+#~ "even if the user isn't allowed to edit them."
+#~ msgstr ""
+#~ "Visar alla mailinglistor för alla användare i översikten, även om "
+#~ "användaren inte får redigera listan."
+
+#~ msgid ""
+#~ "If the list is moderated your message will now be sent to the moderators. "
+#~ "If not, the readers will soon receive a copy of your message."
+#~ msgstr ""
+#~ "Om listan är modererad kommer ditt meddelande att skickas till "
+#~ "moderatorerna. Annars kommer läsarna strax att få var sin kopia av ditt "
+#~ "meddelande."
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorera"
+
+#~ msgid "Ignore and inform the user that the code was considered invalid"
+#~ msgstr "Ignorera och informera användaren att koden var ogiltig"
+
+#~ msgid "Ignore certificate"
+#~ msgstr "Acceptera hemmagjorda SSL certifikat"
+
+#~ msgid "Ignoring message from <em>%s</em> to <em>%s</em>."
+#~ msgstr "Ignorerar meddelandet från <em>%s</em> till <em>%s</em>."
+
+#~ msgid "Ignoring message from <em>%s</em>."
+#~ msgstr "Ignorerar meddelandet från <em>%s</em>."
+
+#~ msgid ""
+#~ "In addition to the above reply-to address, accept messages that are sent "
+#~ "to the above addresses. Useful when forwarding mails to the list from "
+#~ "other email addresses."
+#~ msgstr "Ange vilka mailadresser också går till listan."
+
+#~ msgid "Info"
+#~ msgstr "Info"
+
+#~ msgid "Insert this prefix into the line if it doesn't already exist."
+#~ msgstr "Text att infoga i början på ämnesraden."
+
+#~ msgid "Invalid code from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+#~ msgstr "Ogiltig kod från <em>%s</em> för <em>%s</em>. Kod: <em>%s</em>"
+
+#~ msgid "Invalid code from <em>%s</em>: %s"
+#~ msgstr "Ogiltig kod från <em>%s</em>: %s"
+
+#~ msgid "Invalid code message was sent to <em>%s</em> for <em>%s</em>."
+#~ msgstr ""
+#~ "Meddelande om ogiltig kod har skickats till <em>%s</em> för <em>%s</em>."
+
+#~ msgid "Invalid code sent to %s"
+#~ msgstr "Ogiltig kod skickades till %s"
+
+#~ msgid "Is <em>%s</em> a code?"
+#~ msgstr "Är <em>%s</em> en kod?"
+
+#~ msgid "Items per page"
+#~ msgstr "Rader per sida"
+
+#~ msgid "List <em>%s</em> deleted."
+#~ msgstr "Listan <em>%s</em> har tagits bort."
+
+#~ msgid "List created at %s"
+#~ msgstr "Lista skapad %s"
+
+#~ msgid "List created! <a href=\"%s\">Edit the newly-created list</a>."
+#~ msgstr "Lista skapad! <a href=\"%s\">Redigera den nya listan</a>."
+
+#~ msgid "List is disabled."
+#~ msgstr "Listan är inaktiverad."
+
+#~ msgid "List name"
+#~ msgstr "Listnamn"
+
+#~ msgid "List: %s"
+#~ msgstr "Lista: %s"
+
+#~ msgid "Lists to modify"
+#~ msgstr "Listor att ändra"
+
+#~ msgid "Log"
+#~ msgstr "Logghistorik"
+
+#~ msgid "Logging"
+#~ msgstr "Loggning"
+
+#~ msgid "Mailbox <em>%s</em> could not be opened."
+#~ msgstr "Kontot <em>%s</em> kunde inte öppnas."
+
+#~ msgid "Mailbox could not be opened!"
+#~ msgstr "Mailboxen kunde inte öppnas!"
+
+#~ msgid "Mailing list"
+#~ msgstr "Mailinglista"
+
+#~ msgid "Mass edit"
+#~ msgstr "Massredigera"
+
+#~ msgid ""
+#~ "Maximum amount of connections per each unique server name. 0 is "
+#~ "unlimited. The default is 10."
+#~ msgstr ""
+#~ "Maxantal anslutningar per unikt servernamn. 0 betyder obegränsat. "
+#~ "Standardvärdet är 10."
+
+#~ msgid "Message"
+#~ msgstr "Meddelande"
+
+#~ msgid "Message %s deleted in <em>%s</em>."
+#~ msgstr "Meddelande %s togs bort i <em>%s</em>."
+
+#~ msgid "Message %s to <em>%s</em> could not be sent."
+#~ msgstr "Meddelande %s till <em>%s</em> kunde inte skickas."
+
+#~ msgid ""
+#~ "Message %s to <em>%s</em> has failed too many times and been removed from "
+#~ "the queue."
+#~ msgstr ""
+#~ "Meddelande %s till <em>%s</em> kunde inte skickas igen och har därmed "
+#~ "tagits bort från kön."
+
+#~ msgid ""
+#~ "Message %s to <em>%s</em> removed from queue because of too many failures."
+#~ msgstr ""
+#~ "Meddelande %s till <em>%s</em> togs bort från kön på grund av för många "
+#~ "misslyckad sändningsförsök."
+
+#~ msgid "Message %s to <em>%s</em> removed from queue."
+#~ msgstr "Meddelande %s till <em>%s</em> togs bort från kön."
+
+#~ msgid ""
+#~ "Message %s to <em>%s</em> was from <em>%s</em> and therefore invalid."
+#~ msgstr ""
+#~ "Meddelande %s till <em>%s</em> var från <em>%s</em> och därmed ogiltig."
+
+#~ msgid "Message <em>%s</em> could not be sent."
+#~ msgstr "Meddelande <em>%s</em> kunde inte skickas."
+
+#~ msgid "Message <em>%s</em> has been removed from the queue."
+#~ msgstr "Meddelande <em>%s</em> har tagits bort från kön."
+
+#~ msgid "Message <em>%s</em> has been sent."
+#~ msgstr "Meddelande <em>%s</em> har skickats."
+
+#~ msgid ""
+#~ "Messages from these email addresses will not be moderated even though "
+#~ "there are moderators set."
+#~ msgstr ""
+#~ "Meddelanden från ovanstående författare måste aldrig modereras, oavsett "
+#~ "om det finns moderatorer satta eller inte."
+
+#~ msgid "Messages have been sent."
+#~ msgstr "Mailsen har skickats."
+
+#~ msgid "Messages ignored: %d"
+#~ msgstr "Meddelanden ignorerade: %d"
+
+#~ msgid "Messages reflected: %d"
+#~ msgstr "Mail skickade: %d"
+
+#~ msgid "Minutes between collections"
+#~ msgstr "Minuter mellan samlingar"
+
+#~ msgid "Moderation"
+#~ msgstr "Moderering"
+
+#~ msgid "Moderation request"
+#~ msgstr "Begäran om moderering"
+
+#~ msgid "Moderators"
+#~ msgstr "Moderatorer"
+
+#~ msgid ""
+#~ "Modify the priority of incoming mails with this value. The default "
+#~ "modifier is 0."
+#~ msgstr ""
+#~ "Prioriteten på inkomna mails ändras med det här värdet. Standardvärdet är "
+#~ "0."
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Never collected."
+#~ msgstr "Aldrig samlat."
+
+#~ msgid "New posts to the mailing list are fetched from an IMAP server."
+#~ msgstr "Nya mails tills mailinglistan hämtas från IMAP servern."
+
+#~ msgid "Non-writer action"
+#~ msgstr "Åtgärd för icke-författare"
+
+#~ msgid ""
+#~ "Number of simultaneous connections. Set to 1 to only collect from one "
+#~ "server at a time. 0 is unlimited. The default is 10."
+#~ msgstr ""
+#~ "Antal simultana anslutningar. 1 innebär att mail samlas från en server åt "
+#~ "gången. 0 betyder obegränsat. Standardvärdet är 10."
+
+#~ msgid "Old age"
+#~ msgstr "Pensionsålder"
+
+#~ msgid "Other imap_open settings"
+#~ msgstr "Andra imap_open inställningar"
+
+#~ msgid "Overview"
+#~ msgstr "Översikt"
+
+#~ msgid "Password"
+#~ msgstr "Lösenord"
+
+#~ msgid "Periodical maintenance functions (<em>cron</em>)"
+#~ msgstr "Tisinställda underhållsfunktioner (<em>cron</em>)"
+
+#~ msgid "Please moderate this message:"
+#~ msgstr "Var god moderera det här meddelandet:"
+
+#~ msgid "Port"
+#~ msgstr "Port"
+
+#~ msgid "Priority"
+#~ msgstr "Prioritet"
+
+#~ msgid "Priority decrease batch size"
+#~ msgstr "Läsarantal för att sänka prioritet"
+
+#~ msgid "Priority modifier"
+#~ msgstr "Prioritetsändring"
+
+#~ msgid "Processing <em>%s</em>."
+#~ msgstr "Behandlar <em>%s</em>."
+
+#~ msgid "Processing of incoming mail"
+#~ msgstr "Behandling av inkomna mail"
+
+#~ msgid "Queue"
+#~ msgstr "Sändkö"
+
+#~ msgid "Queue actions"
+#~ msgstr "Köhändelser"
+
+#~ msgid "Queued"
+#~ msgstr "Köad"
+
+#~ msgid "Queueing message from <em>%s</em> to <em>%s</em>."
+#~ msgstr "Lägger mailet från <em>%s</em> i kön åt <em>%s</em>."
+
+#~ msgid "Queues cleaned up."
+#~ msgstr "Köerna har städats."
+
+#~ msgid "Readers"
+#~ msgstr "Läsare"
+
+#~ msgid "Readers and writers"
+#~ msgstr "Läsare och författare"
+
+#~ msgid "Readers receieve all messages."
+#~ msgstr "Läsare får alla mails till listan."
+
+#~ msgid "Reject"
+#~ msgstr "Förkasta"
+
+#~ msgid "Reject with message"
+#~ msgstr "Förkasta och skicka ett felmeddelande tillbaka"
+
+#~ msgid "Rejection message was sent to <em>%s</em> for <em>%s</em>."
+#~ msgstr "Förkastningsmail har skickats till <em>%s</em> för <em>%s</em>."
+
+#~ msgid "Remove selected log messages"
+#~ msgstr "Ta bort valda loggmeddelanden"
+
+#~ msgid "Reply-to address"
+#~ msgstr "Svara-till adressen"
+
+#~ msgid "Require authorization"
+#~ msgstr "Kräv bekräftelse"
+
+#~ msgid "Require authorization then send to the moderators"
+#~ msgstr "Kräv bekräftelse och skicka sedan till moderatorerna"
+
+#~ msgid "Role to use the mailing list"
+#~ msgstr "Roll för att få använda mailinglistan"
+
+#~ msgid "SSL"
+#~ msgstr "SSL"
+
+#~ msgid "Save changes"
+#~ msgstr "Spara inställningarna"
+
+#~ msgid "Save new settings"
+#~ msgstr "Spara inställningarna"
+
+#~ msgid "Security settings"
+#~ msgstr "Säkerhetsinställningar"
+
+#~ msgid ""
+#~ "See <a href=\"http://php.net/manual/en/function.imap-open.php\">%s</a>. "
+#~ "Start your options with a forward slash."
+#~ msgstr ""
+#~ "Läs mer på <a href=\"http://php.net/manual/en/function.imap-open.php\">"
+#~ "%s</a>. Påbörja inställningarna med ett snedstreck."
+
+#~ msgid "See all of the user's lists"
+#~ msgstr "Visa samtliga användarens listor"
+
+#~ msgid "See in overview"
+#~ msgstr "Se i översikten"
+
+#~ msgid "See the access settings for this list"
+#~ msgstr "Visa åtkomsten för listan"
+
+#~ msgid "Selected"
+#~ msgstr "Vald"
+
+#~ msgid "Send"
+#~ msgstr "Skicka"
+
+#~ msgid "Send connections"
+#~ msgstr "Anslutningar för att skicka"
+
+#~ msgid "Send messages in the queue"
+#~ msgstr "Skicka mails från kön"
+
+#~ msgid "Send settings"
+#~ msgstr "Inställningar för att skicka"
+
+#~ msgid "Send to the moderators"
+#~ msgstr "Skicka till moderatorerna"
+
+#~ msgid "Sending of mail"
+#~ msgstr "Mailskickande"
+
+#~ msgid "Settings"
+#~ msgstr "Inställningar"
+
+#~ msgid "Show all the lists to all users"
+#~ msgstr "Visa alla listor för alla användare"
+
+#~ msgid "Specify which types of log messages are to be saved."
+#~ msgstr "Ange vilka loggmeddelandetyper ska sparas."
+
+#~ msgid "Starting %s fetching children."
+#~ msgstr "Startar %s processer för att hämta mail."
+
+#~ msgid "Starting %s sending children."
+#~ msgstr "Startar %s processer för att skicka mail."
+
+#~ msgid "Statistics"
+#~ msgstr "Statistik"
+
+#~ msgid "Subject line prefix"
+#~ msgstr "Ämnesradprefix"
+
+#~ msgid "Subject line suffix"
+#~ msgstr "Ämnesradsuffix"
+
+#~ msgid "Subject: %s"
+#~ msgstr "Ämne: %s"
+
+#~ msgid "Text modifications"
+#~ msgstr "Textändringar"
+
+#~ msgid "Text settings"
+#~ msgstr "Textinställningar"
+
+#~ msgid ""
+#~ "The above email adresses are moderators and will each receive the "
+#~ "messages that require moderation."
+#~ msgstr ""
+#~ "Ovanstående mailadresser går till moderatorer. Alla moderatorer får var "
+#~ "sitt mail om meddelanden som måste modereras."
+
+#~ msgid ""
+#~ "The above writers need to authorize all their messages via a reply e-mail."
+#~ msgstr ""
+#~ "Ovanstående författare måste skicka in bekräftelsemail för alla mail de "
+#~ "skriver till listan."
+
+#~ msgid "The code <em>%s</em> has been accepted."
+#~ msgstr "Koden <em>%s</em> har accepterats."
+
+#~ msgid "The code <em>%s</em> has been deleted."
+#~ msgstr "Koden <em>%s</em> har tagits bort."
+
+#~ msgid "The code you tried to send was <em>%s</em>."
+#~ msgstr "Koden du försökte skicka var <em>%s</em>."
+
+#~ msgid "The list below shows all the moderators in the lists."
+#~ msgstr ""
+#~ "Listan undertill visar alla moderatorerna som finns inställda i listorna."
+
+#~ msgid "The lists have been mass edited."
+#~ msgstr "Listorna har massredigerats."
+
+#~ msgid ""
+#~ "The message has been placed in the send queue and depending on how long "
+#~ "the queue is the readers should receive a copy of the message shortly."
+#~ msgstr ""
+#~ "Meddelandat har lagts i sändkön. Läsarna bör strax få en kopia på "
+#~ "meddelandet, beroende på hur lång sändkön är."
+
+#~ msgid "The message you sent to <em>%s</em> has now been authorized."
+#~ msgstr "Meddelandet du skickade till <em>%s</em> har godkänts."
+
+#~ msgid "The original message is attached"
+#~ msgstr "Originalmeddelandet bifogas."
+
+#~ msgid "The selected log messages have been deleted."
+#~ msgstr "De valda loggmeddelandena har tagits bort."
+
+#~ msgid "The settings have been saved!"
+#~ msgstr "Inställningarna har sparats!"
+
+#~ msgid ""
+#~ "These addresses are either accepted to the list or sent to moderators, "
+#~ "depending on whether there are moderators set."
+#~ msgstr ""
+#~ "Mail från ovanstående adresser skickas antingen direkt till listan eller "
+#~ "till moderatorerna, beroende på om det finns moderatorer satta."
+
+#~ msgid ""
+#~ "These sections specify which e-mail addresses may write to the group "
+#~ "(writers) and which addresses receive messages (readers)."
+#~ msgstr ""
+#~ "Följande inställningar innehåller vilka som får skriva meddelanden till "
+#~ "listan (författare) och vilka adresser tar emot meddelandena (läsare)."
+
+#~ msgid "These settings modify messages."
+#~ msgstr "Följande inställningar ändrar i meddelanden."
+
+#~ msgid ""
+#~ "This is the main e-mail address of the mailing list, to which are replies "
+#~ "are to be sent. If left empty, the replies will go back to the person who "
+#~ "sent the mail to the mailing list in the first place."
+#~ msgstr ""
+#~ "Detta är mailinglistans e-postadress, dit alla svar ska skickas. Om det "
+#~ "lämnas tomt kommer svaren att gå tillbaka till personen som skickade "
+#~ "mailet från början."
+
+#~ msgid "This message is from a moderator."
+#~ msgstr "Meddelandet är från en moderator."
+
+#~ msgid "This message is from a non-moderated writer."
+#~ msgstr "Meddelandet är från en icke-modererad författare."
+
+#~ msgid "This message is not from a known writer."
+#~ msgstr "Meddelandet är inte från en känd författare."
+
+#~ msgid "This message must be authorized."
+#~ msgstr "Det här meddelandet måste bekräftas"
+
+#~ msgid "This message must be moderated."
+#~ msgstr "Det här meddelandet måste modereras."
+
+#~ msgid "This message will be accepted."
+#~ msgstr "Meddelandet kommer att accepteras."
+
+#~ msgid "This message will be moderated."
+#~ msgstr "Meddelandet måste modereras."
+
+#~ msgid "This message will be rejected with a message."
+#~ msgstr "Meddelandet kommer att förkastas med ett felmeddelande."
+
+#~ msgid "This message will be rejected."
+#~ msgstr "Meddelandet kommer att förkastas."
+
+#~ msgid ""
+#~ "This setting forces all messages to be authorized via a reply e-mail. "
+#~ "This setting is useful in those situations where the address of the list "
+#~ "is known publically, allowing anyone to try to send mail."
+#~ msgstr ""
+#~ "Alla meddelanden måste bekräftas av avsändaren genom ett svarsmail. Detta "
+#~ "är användbart ifall nätet känner till mailinglistans e-postadress."
+
+#~ msgid "Time"
+#~ msgstr "Tid"
+
+#~ msgid ""
+#~ "To accept the message, reply to this email and immediately press send. If "
+#~ "you ignore this email the message will not be accepted into the list."
+#~ msgstr ""
+#~ "För att godkänna meddelandet, svara på det här mailet och skicka svaret "
+#~ "direkt. Om du ignorerar det här mailet kommer meddelandet inte att "
+#~ "godkännas."
+
+#~ msgid ""
+#~ "To authorize the message, reply to this email and immediately press send."
+#~ msgstr ""
+#~ "För att bekräfta meddelandet, svara på det här mailet och skicka svaret "
+#~ "direkt."
+
+#~ msgid "To leave a setting unchanged, leave it empty."
+#~ msgstr "Ska en inställning inte ändras, lämna den tom."
+
+#~ msgid "To: %s"
+#~ msgstr "Till: %s"
+
+#~ msgid "Too early to collect <em>%s</em>."
+#~ msgstr "För tidigt att samla <em>%s</em>."
+
+#~ msgid "Too many connections to <em>%s</em>. Skipping list <em>%s</em>."
+#~ msgstr ""
+#~ "För många anslutningar till <em>%s</em>. Hoppar över listan <em>%s</em>."
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Uninstall"
+#~ msgstr "Avinstallera"
+
+#~ msgid "Unmoderated writers"
+#~ msgstr "Omodererade författare"
+
+#~ msgid "Update lists"
+#~ msgstr "Uppdatera listorna"
+
+#~ msgid "Use an SSL connection to the server."
+#~ msgstr "Använd SSL för att ansluta"
+
+#~ msgid "Username"
+#~ msgstr "Användarnamn"
+
+#~ msgid "Valid code from <em>%s</em> for <em>%s</em>. Code: <em>%s</em>"
+#~ msgstr "Giltig kod från <em>%s</em> för <em>%s</em>. Kod: <em>%s</em>"
+
+#~ msgid ""
+#~ "What should the plugin do when a valid authorization code is received "
+#~ "from a list writer?"
+#~ msgstr ""
+#~ "Vad ska programmet göra när en giltig bekräftelsekod tas emot från en "
+#~ "författare?"
+
+#~ msgid ""
+#~ "What should the plugin do when a valid moderation code is received from a "
+#~ "moderator?"
+#~ msgstr ""
+#~ "Vad ska programmet göra när en giltig modereringskod har tagits emot av "
+#~ "en moderator?"
+
+#~ msgid "What should the plugin do when an invalid code is received?"
+#~ msgstr "Vad ska programmet göra när en ogiltig kod tas emot?"
+
+#~ msgid ""
+#~ "What to do with messages that are received from people who are not in any "
+#~ "of the writer lists."
+#~ msgstr ""
+#~ "Vad ska programmet göra med mails som kommer från folk som inte finns på "
+#~ "någon författarlista?"
+
+#~ msgid "Which role is needed to use the mailing list at all."
+#~ msgstr ""
+#~ "Vilken användarroll behövs för att öht kunna använda "
+#~ "mailinglistfunktionen."
+
+#~ msgid "With the selected rows"
+#~ msgstr "Med de valda rader gör"
+
+#~ msgid "Writers"
+#~ msgstr "Författare"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "You have accepted a message to %s"
+#~ msgstr "Du har accepterat att meddelande till %s"
+
+#~ msgid ""
+#~ "You have accepted the message sent from <em>%s</em> to the mailing list "
+#~ "<em>%s</em>."
+#~ msgstr ""
+#~ "Du har accepterat meddelandet från <em>%s</em> som skickades till "
+#~ "mailinglistan <em>%s</em>."
+
+#~ msgid "You tried to send an invalid code to the mailing list <em>%s</em>."
+#~ msgstr "Du försökte skicka en ogiltig kod till mailinglistan <em>%s</em>."
+
+#~ msgid "Your message needs authorization:"
+#~ msgstr "Ditt meddelande måste bekräftas:"
+
+#~ msgid "Your message to %s is now authorized"
+#~ msgstr "Ditt meddelande till %s är nu bekräftat"
+
+#~ msgid "Your message to the mailing list <em>%s</em> must be authorized."
+#~ msgstr "Ditt meddelande till mailinglistan <em>%s</em> måste bekräftas."
+
+#~ msgid ""
+#~ "Your message to the mailing list <em>%s</em> was rejected because the "
+#~ "list did not recognize you as a valid writer."
+#~ msgstr ""
+#~ "Ditt meddelande till mailinglistan <em>%s</em> nekandes för att du inte "
+#~ "får skriva till listan."
+
+#~ msgid "Your message was rejected."
+#~ msgstr "Ditt meddelande accepterades inte till mailinglistan."
+
+#~ msgid "imap_open's PHP man page"
+#~ msgstr "PHP hjälpsidan för imap_open"
+
+#~ msgid "Start: %s"
+#~ msgstr "Start: %s"
+
+#~ msgid "CURL handling"
+#~ msgstr "CURL-funktioner"
+
+#~ msgid "Nothing"
+#~ msgstr "Ingenting"
+
+#~ msgid "Queueing message from %s to %s."
+#~ msgstr "Lägger meddelandet från %s till %s i sändkön."
+
+#~ msgid "A new list has been created."
+#~ msgstr "En ny lista har skapats."
+
+#~ msgid "Change to disabled"
+#~ msgstr "Ändra till avaktiverat"
+
+#~ msgid "Change to enabled"
+#~ msgstr "Ändra till aktiverat"
+
+#~ msgid "Debug"
+#~ msgstr "Felsökningsmeddelanden"
+
+#~ msgid "Error"
+#~ msgstr "Felmeddelanden"
+
+#~ msgid "Level"
+#~ msgstr "Meddelandetyp"
+
+#~ msgid "Log level"
+#~ msgstr "Hur mycket ska loggas?"
+
+#, fuzzy
+#~ msgid "No change"
+#~ msgstr "Spara inställningarna"
+
+#~ msgid "Remove debug messages"
+#~ msgstr "Ta bort felsökningsmeddelanden"
+
+#~ msgid "Remove error messages"
+#~ msgstr "Ta bort felmeddelanden"
+
+#~ msgid "Remove info messages"
+#~ msgstr "Ta bort infomeddelanden"
+
+#~ msgid "Remove warning messages"
+#~ msgstr "Ta bort varningar"
+
+#~ msgid "Warning"
+#~ msgstr "Varningar"
+
+#~ msgid "Help"
+#~ msgstr "Hjälp"
+
+#~ msgid "Use the button below to create a new mailing list."
+#~ msgstr "Använd knappan nedan för att skapa en ny mailinglista."

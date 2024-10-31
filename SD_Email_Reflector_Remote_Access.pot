@@ -1,0 +1,17 @@
+# SD Email Reflector Remote Access
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SD Email Reflector Remote Access\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-14 00:00+0200\n"
+"PO-Revision-Date: 2012-04-14 00:00+0200\n"
+"Last-Translator: IT-avdelningen <it@sverigedemokraterna.se>\n"
+"Language-Team: IT-avdelningen <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
